@@ -8,3 +8,6 @@ plot (x, y, xlab = 'rubbish', ylab = 'garbage')
 #new plot
  a<- rnorm(100)
  plot(a, type="l")
+ 
+#more changes alright!!!
+ 
